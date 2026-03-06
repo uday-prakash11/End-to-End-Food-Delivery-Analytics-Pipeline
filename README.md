@@ -48,9 +48,7 @@ The dataset contains five relational tables representing a food delivery platfor
 
 - Tableau – Interactive dashboards and business insights
 
-### Project Architecture
-
-## 📁 Project Structure
+### Project Structure
 
 | Folder/File | Description |
 |-------------|-------------|
