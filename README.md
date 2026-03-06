@@ -50,12 +50,12 @@ The dataset contains five relational tables representing a food delivery platfor
 
 ### Project Architecture
 
- End-to-End Food Delivery Analytics Pipeline/
-│
-├── Dataset/                # Raw datasets
-├── SQL/                    # SQL queries and scripts
-├── Solutions/              # Business problem solutions
-├── Images/                 # Visualization outputs
-└── README.md               # Project documentation
+## 📁 Project Structure
 
-
+| Folder/File | Description |
+|-------------|-------------|
+| **Dataset/** | Raw datasets used for analysis 
+| **Images/** | Visualization outputs |
+| **SQL/** | SQL queries and scripts |
+| **Solutions/** | Solutions to business problems |
+| **README.md** | Project documentation |
